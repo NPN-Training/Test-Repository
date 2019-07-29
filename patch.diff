@@ -1,0 +1,16 @@
+diff --git a/NPN-Repository/Maven-example/maventest/src/test/java/TestFirst.java b/NPN-Repository/Maven-example/maventest/src/test/java/TestFirst.java
+index 66d017b..2027f58 100644
+--- a/NPN-Repository/Maven-example/maventest/src/test/java/TestFirst.java
++++ b/NPN-Repository/Maven-example/maventest/src/test/java/TestFirst.java
+@@ -6,7 +6,11 @@ public class TestFirst {
+ 		System.out.println("Welcome to NPN Training");
+ 		System.out.println("This is from Pradeep!");
+ 		System.out.println("This is from Sherry");
++<<<<<<< .merge_file_a00868
+ 		System.out.println("This is for Conflict!!!");
++=======
++		System.out.println("This is for resolving conflict");
++>>>>>>> .merge_file_a00908
+ 	}
+ 
+ }
