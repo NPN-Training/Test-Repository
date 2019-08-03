@@ -8,6 +8,7 @@ public class TestFirst {
 		System.out.println("This is from Sherry");
 		System.out.println("This is for Conflict!!!");
 		System.out.println("This is test commit for GIT!!");
+		System.out.println("This is from Sherry");
 	}
 
 }
